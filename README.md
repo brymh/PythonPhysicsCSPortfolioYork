@@ -17,10 +17,10 @@ I decided to include two projects, each showing a different part of my backgroun
 
 **The repository contains two main projects:**
 
-1. [Quantum vs Classical Measurement, a Qiskit Investigation](https://github.com/brymh/RAYPortfolio2026/blob/main/fourier_quantum_measurement.ipynb)  
+1. [Quantum vs Classical Measurement, a Qiskit Investigation](https://github.com/brymh/PythonPhysicsCSPortfolioYork/blob/main/fourier_quantum_measurement.ipynb)  
    This notebook focuses on quantum measurement and was actually the first context in which I interfaced with a real quantum computer. It features Matplotlib, Qiskit, NumPy, and SciPy as I document my experience independently studying quantum information and working toward the [IBM Qiskit Developer Certification](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400).
 
-2. [Agentic AI for Optimized Graph Traversal of Delivery Vehicles Utilizing Gemini](https://github.com/brymh/RAYPortfolio2026/blob/main/agentic_gemini_graph_pipeline.ipynb)  
+2. [Agentic AI for Optimized Graph Traversal of Delivery Vehicles Utilizing Gemini](https://github.com/brymh/PythonPhysicsCSPortfolioYork/blob/main/agentic_gemini_graph_pipeline.ipynb)  
    This notebook displays my formal training in computer science. It uses agentic AI rules written by me, interfaces with Google's Gemini API, and applies graph traversal and simplification techniques to a delivery-routing style problem. I also mapped out regions of NYC with Matplotlib which was pretty cool, not what you would expect from a statistical analysis tool!
 
 Collectively, these projects represent the intersection of my interests in physics, computation, and research-oriented thinking. They are not meant to be final, perfect research papers, but rather examples of how I learn, build, test ideas, and apply technical tools across different areas of science and computing.
