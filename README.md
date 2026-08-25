@@ -1,0 +1,98 @@
+<p align="center">
+  <img src="resources/md/york.png" width="200">
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=29&pause=2000&color=E5646B&center=true&width=435&lines=Research+at+York+2026" alt="Typing SVG" /></a>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+This repository is a curated collection of projects intended to showcase my abilities as both a physicist and a computer scientist. As a double major in the two, I wanted to highlight the interdisciplinary nature of my degree and show how I use code to explore scientific and technical problems.
+
+I decided to include three projects, each showing a different part of my background and interests: quantum computing, computational physics, and agentic AI. Together, they are meant to paint a picture of both my current ability and my trajectory as an aspiring computational physicist and quantum researcher.
+
+
+**The repository contains three main projects:**
+
+1. [Quantum vs Classical Measurement, a Qiskit Investigation](https://github.com/brymh/RAYPortfolio2026/blob/main/fourier_quantum_measurement.ipynb)  
+   This notebook focuses on quantum measurement and was actually the first context in which I interfaced with a real quantum computer. It features Matplotlib, Qiskit, NumPy, and SciPy as I document my experience independently studying quantum information and working toward the [IBM Qiskit Developer Certification](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400).
+
+2. [Agentic AI for Optimized Graph Traversal of Delivery Vehicles Utilizing Gemini](https://github.com/brymh/RAYPortfolio2026/blob/main/agentic_gemini_graph_pipeline.ipynb)  
+   This notebook displays my formal training in computer science. It uses agentic AI rules written by me, interfaces with Google's Gemini API, and applies graph traversal and simplification techniques to a delivery-routing style problem. I also mapped out regions of NYC with Matplotlib which was pretty cool, not what you would expect from a statistical analysis tool!
+
+3. [Applying Bayesian Inference Techniques on M31 Andromeda Data](https://github.com/brymh/RAYPortfolio2026/blob/main/mcmc_andromeda_core_cusp.ipynb)  
+   This notebook highlights my ability to approach physics problems computationally. Using MCMC sampling through the Metropolis algorithm, I fit a dark matter enclosed mass model to the rotation curve of the Andromeda Galaxy with data from [Corbelli et al. (2010)](https://arxiv.org/abs/0912.4133).
+
+Collectively, these projects represent the intersection of my interests in physics, computation, and research-oriented thinking. They are not meant to be final, perfect research papers, but rather examples of how I learn, build, test ideas, and apply technical tools across different areas of science and computing.
+
+If you have any questions, or if you would like me to walk you through any of the projects, feel free to reach out at [brymh@my.yorku.ca](mailto:brymh@my.yorku.ca).
+
+With enthusiasm,
+
+Bryan Milosevic-Hill
+
+April 2026
+
+---
+
+
+
+</td>
+<td width="30%" valign="top">
+
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/fourier_quantum_measurement.ipynb"><img src="resources/md/fez.png" width="100%"></a>
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/agentic_gemini_graph_pipeline.ipynb"><img src="resources/md/graph.png" width="100%"></a>
+<a href="https://github.com/brymh/RAYPortfolio2026/blob/main/mcmc_andromeda_core_cusp.ipynb"><img src="resources/md/curve.png" width="100%"></a>
+
+</td>
+</tr>
+</table>
+
+
+#### Additionally, I have experience with:
+
+<table><tr><td>
+Python · Java and OOP Frameworks · C and C++ · Machine Code and Assembly (RISC-V) · Git · Shell Scripting and Linux · Embedded Systems · JUnit and Test Case Design · LaTeX · HTML, JS, Django · Software Design Patterns and Algorithm Design · Sensor Interfacing and Microcontrollers · Qiskit · Prolog
+</td></tr></table>
+
+
+## To Run Locally
+
+1. Clone the repo
+
+```
+git clone https://github.com/brymh/RAYPortfolio2026
+cd RAYPortfolio2026
+```
+
+2. Create virtual environment
+
+Windows:
+```
+py -m venv .venv
+.\.venv\Scripts\activate
+```
+
+Mac:
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+After activation, you should see `(.venv)` at the beginning of each prompt.
+
+3. Install dependencies
+
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+
+---
+I do not own the rights to NYC traffic data or the html file storing April 7th, those files were accessed and used for educational purposes.
+
+This repository was created for educational and personal portfolio purposes. I **do not** consent to the use of my code for training language models, machine learning systems, or other AI tools. 
